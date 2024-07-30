@@ -4,7 +4,7 @@ using namespace std;
 class hello{
     public:
 void hello_iti(){
-    cout<<"HelloITI";
+    cout<<"HelloITI_h";
 }
 void printhellogit(){
    cout<<"hellogit";
