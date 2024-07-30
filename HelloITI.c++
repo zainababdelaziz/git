@@ -6,9 +6,13 @@ class hello{
 void hello_iti(){
     cout<<"HelloITI";
 }
+void printhellogit(){
+   cout<<"hellogit";
+}
 };
 int main(){
     hello p;
     p.hello_iti();
+    p.hellogit();
     return 0;
 }
