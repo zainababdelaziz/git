@@ -9,5 +9,6 @@ void helloWorld(){
 int main(){
     hello2 d;
     d.helloWorld();
+    cout<<"new project ";
     return 0;
 }
